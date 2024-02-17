@@ -2773,6 +2773,13 @@ export const comments = [
     },
     {
       "postId": 80,
+      "id": 3961,
+      "name": "Тосанбай Тосанбаевич",
+      "email": "Azizbek.Kholmuminov@gmail.com",
+      "body": "Seni kozlaring meni shaydo qilur, va men ozimdi yoqoturman"
+    },
+    {
+      "postId": 80,
       "id": 397,
       "name": "quasi exercitationem molestias dolore non non sed est",
       "email": "Dexter.Pacocha@lauren.biz",
